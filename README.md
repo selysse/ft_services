@@ -12,6 +12,7 @@ Services is a project proposed in the 42 Schools curriculum, consisting on the i
 
 <details>
 <summary><b>Installation</b></summary>
+
 ```
 git clone https://github.com/selysse/ft_services.git
 ```
@@ -19,6 +20,7 @@ git clone https://github.com/selysse/ft_services.git
  
  <details>
 <summary><b>Run</b></summary>
+
 ```
 $ sh ./setup.sh
 ```
